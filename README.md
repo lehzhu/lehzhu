@@ -6,7 +6,7 @@ Specialties: Data engineering, QA engineering, software engineering, product str
 
 ---
 
-- 🌐 **Website**:  [lezhu.ca](https://lezhu.ca)
+- 🌐 **Website**:  [lhzhu.com](https://lhzhu.com)
 - 🔗 **LinkedIn**: [linkedin.com/in/leon-zhu](https://linkedin.com/in/leon-zhu)
 - 📧 **Email**:    lzhu294@uwo.ca
 
