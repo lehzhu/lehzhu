@@ -2,7 +2,7 @@
 
 I'm passionate about scaling and maintaining effective production systems that enable success around the world. 
 
-Specialties: Data engineering, QA engineering, software engineering, product strategy, product consulting.
+Specialties: Data engineering, backend engineering, product strategy
 
 ---
 
